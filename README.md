@@ -17,3 +17,4 @@ To run the application, use the `go run` command:
 
 ```bash
 go run bank.go
+```
